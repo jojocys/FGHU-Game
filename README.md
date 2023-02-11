@@ -1,5 +1,10 @@
 # FGHU-Collections
 
+[![GitHub issues](https://img.shields.io/github/issues/jojocys/FGHU-Collections.svg)](https://github.com/jojocys/FGHU-Collections/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jojocys/FGHU-Collections.svg)](https://github.com/jojocys/FGHU-Collections/network)
+[![GitHub stars](https://img.shields.io/github/stars/jojocys/FGHU-Collections.svg)](https://github.com/jojocys/FGHU-Collections/stargazers)
+[![GitHub license](https://img.shields.io/github/license/jojocys/FGHU-Collections.svg)](https://github.com/jojocys/FGHU-Collections/blob/master/LICENSE)
+
 This project is a collection of random, meaningless code snippets that don't serve any real purpose.
 
 ## Getting Started

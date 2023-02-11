@@ -1,9 +1,9 @@
-# FGHU-Collections
+# FGHU-Game
 
-[![GitHub issues](https://img.shields.io/github/issues/jojocys/FGHU-Collections.svg)](https://github.com/jojocys/FGHU-Collections/issues)
-[![GitHub forks](https://img.shields.io/github/forks/jojocys/FGHU-Collections.svg)](https://github.com/jojocys/FGHU-Collections/network)
-[![GitHub stars](https://img.shields.io/github/stars/jojocys/FGHU-Collections.svg)](https://github.com/jojocys/FGHU-Collections/stargazers)
-[![GitHub license](https://img.shields.io/github/license/jojocys/FGHU-Collections.svg)](https://github.com/jojocys/FGHU-Collections/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/jojocys/FGHU-Game.svg)](https://github.com/jojocys/FGHU-Game/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jojocys/FGHU-Game.svg)](https://github.com/jojocys/FGHU-Game/network)
+[![GitHub stars](https://img.shields.io/github/stars/jojocys/FGHU-Game.svg)](https://github.com/jojocys/FGHU-Game/stargazers)
+[![GitHub license](https://img.shields.io/github/license/jojocys/FGHU-Game.svg)](https://github.com/jojocys/FGHU-Game/blob/master/LICENSE)
 
 This project is a collection of random, meaningless code snippets that don't serve any real purpose.
 

@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/jojocys/FGHU-Game.svg)](https://github.com/jojocys/FGHU-Game/stargazers)
 [![GitHub license](https://img.shields.io/github/license/jojocys/FGHU-Game.svg)](https://github.com/jojocys/FGHU-Game/blob/master/LICENSE)
 
-This project is a collection of random, meaningless code snippets that don't serve any real purpose.
+Fake Github User Detectors. This repo uses a "honeypot" to attract some fake Github users, and then search based on their activity to find more.
 
 ## Getting Started
 

@@ -25,7 +25,7 @@ with open("./.tokens.json", "r") as file1:
     tokens = json.load(file1)
     github_access_token = tokens["github_access_token"]
     print(github_access_token)
-    repo_name = "kataras/iris"
+    repo_name = "jojocys/FGHU-Game"
     save_file_name = repo_name.replace("/", "_")
     with open(f"./data/starred_users_{save_file_name}.json", "w") as file2:
         starred_users = get_starred_users(repo_name, github_access_token)
